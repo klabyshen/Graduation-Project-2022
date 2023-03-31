@@ -11,3 +11,6 @@ listelerine göre sayısal vektörlere çevrilip arff formatında yazıldıktan 
 aracılığıyla on farklı temel makine öğrenme algoritmalarıyla modeller kullanılarak önceden
 belirlenmiş dört kategorinin kombinasyonlarına (astroloji, ekonomi, siyaset, spor) göre hangi
 sınıflara girecekleri tespit edilmiştir.
+
+
+![alt text](https://github.com/klabyshen/Graduation-Project-2022/blob/main/custom-text-test.jpg?raw=true)
